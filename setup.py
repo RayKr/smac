@@ -37,7 +37,7 @@ setup(
     author_email="mikayel@samvelyan.com",
     license="MIT License",
     keywords="StarCraft, Multi-Agent Reinforcement Learning",
-    url="https://github.com/oxwhirl/smac",
+    url="https://github.com/RayKr/smac",
     packages=[
         "smac",
         "smac.env",
